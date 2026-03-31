@@ -95,9 +95,4 @@ These steps significantly improve generalization under real-world conditions.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this work with proper citation.
-
 
