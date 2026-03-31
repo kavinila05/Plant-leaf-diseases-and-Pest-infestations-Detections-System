@@ -75,14 +75,7 @@ These steps significantly improve generalization under real-world conditions.
 
 ---
 
----
-## 📄 Research Validation
 
-This implementation is experimentally validated and corresponds directly to the methodology, datasets, results, and conclusions presented in the IJERT journal paper.
-
-All accuracy plots, confusion matrices, and experimental results are included in the docs/ folder.
-
----
 
 ## Authors
 
