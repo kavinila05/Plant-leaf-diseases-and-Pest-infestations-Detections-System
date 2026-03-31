@@ -16,10 +16,8 @@ Early detection of **plant diseases, pest attacks, and adverse soil conditions**
 
 - Monitor **temperature, humidity, and soil moisture** in real time  
 - Detect **plant leaf diseases** using CNN-based image classification  
-- Identify **pest infestations** from images  
-- Deploy models on **Raspberry Pi (edge device)**  
-- Send **real-time SMS alerts** using Twilio  
-- Reduce manual labor and improve decision-making for farmers  
+- Identify **pest infestations** from images
+   
 
 ---
 
