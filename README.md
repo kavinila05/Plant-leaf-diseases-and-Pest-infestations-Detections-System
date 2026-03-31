@@ -75,14 +75,6 @@ These steps significantly improve generalization under real-world conditions.
 
 ---
 
-
-
-## Authors
-
- Kavinila_V
-
----
-
 ## 🔮 Future Scope
 
   - Real-time camera-based continuous monitoring
@@ -96,3 +88,10 @@ These steps significantly improve generalization under real-world conditions.
 ---
 
 
+
+
+## Authors
+
+ Kavinila_V
+
+---
